@@ -23,7 +23,7 @@ significant improvement over the other methods and it can be
 concluded that MEBoost is an effective and promising algorithm
 to deal with imbalance datasets
 
-Paper here: https://arxiv.org/pdf/1712.06658.pdf
+This is the official python implementation of the paper https://arxiv.org/pdf/1712.06658.pdf
 
 Use fit() to train predict() to get predictions. predict_proba() and predict_proba_samme() can be used to get probabilites.
 
