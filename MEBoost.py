@@ -27,7 +27,7 @@ from imblearn.over_sampling import SMOTE
 from sklearn.tree import ExtraTreeClassifier
 
 
-class AdaBoost:
+class MEBoost:
     def __init__(self, n_estimators, depth, split, neighbours):
         self.M = n_estimators
         self.depth = depth
